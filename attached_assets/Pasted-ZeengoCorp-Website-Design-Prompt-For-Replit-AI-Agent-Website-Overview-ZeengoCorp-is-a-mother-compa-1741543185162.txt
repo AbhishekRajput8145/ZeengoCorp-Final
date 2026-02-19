@@ -1,0 +1,125 @@
+ZeengoCorp Website Design Prompt (For Replit AI Agent)
+Website Overview
+ZeengoCorp is a mother company designed to innovate, create, and scale multiple businesses and solutions across various sectors. This site will showcase diverse upcoming projects, current offerings, engage visitors, and capture leads effectively.
+
+Global Styling Rules
+Background: Black (#000000)
+Primary Text: White (#FFFFFF)
+Secondary Text: Light Gray (#D3D3D3)
+Button (General): Light Gray (#C4C4C4) with hover effects (slightly brighter upon hover).
+CTA Buttons: Bright White (#FFFFFF) buttons with a soft glowing effect on hover.
+Typography:
+Headings: Poppins Extra Bold
+Subheadings & Body: Roboto Regular
+Site Structure & Page Details
+✅ Navbar (Top Header)
+Logo: Top-left corner ("ZeengoCorp" Logo).
+Navigation Links:
+Home (index.html)
+About Us (about.html)
+Services (services.html)
+Resources (resources.html)
+Blogs (blogs.html)
+Contact (contact.html)
+CTA Button: "Connect Now" – leads directly to contact.html.
+✅ Home Page (index.html)
+1. Hero Section
+Background: Animated abstract shapes or subtle geometric animation (white/light gray).
+Headline:
+"ZeengoCorp—Innovate, Create, Lead."
+Subheadline:
+"A visionary mother company transforming industries, driving growth, and creating opportunities."
+CTA Buttons:
+Primary: "Explore Innovations" (services.html)
+Secondary: "Contact Our Team" (contact.html)
+2. About ZeengoCorp
+Short company intro.
+Animated timeline showcasing future industries or projects (no specific names, just "Future Project 1", etc.).
+CTA: "Learn More" (about.html)
+3. Core Services Preview
+Brief cards overview:
+"Real Estate Innovation"
+"Security Solutions"
+"AI-Driven Business Tools"
+Each card with "Discover More" button linking to respective sections in services.html.
+4. Why ZeengoCorp?
+Short bullet points:
+"Limitless Innovation"
+"Industry-leading Solutions"
+"Trusted and Reliable"
+Include one customer testimonial (placeholder content).
+5. Newsletter Signup
+Headline: "Stay Connected to the Future"
+Simple form: Name & Email with CTA button ("Subscribe").
+6. Blog Highlights
+Display recent 3 blogs (titles only).
+CTA Button: "View All Blogs" (blogs.html)
+7. Contact CTA
+Encouraging visitors to engage directly.
+CTA button ("Get in Touch") linking to contact.html.
+✅ About Us Page (about.html)
+Company Vision, Mission, and Story sections.
+Leadership or Founder message.
+Future outlook.
+CTA: "Contact Us" (contact.html)
+✅ Services Page (services.html)
+Detailed overview of main sectors (without limiting future possibilities):
+
+Real Estate Solutions
+
+Property consultation, listings, investment advisory.
+Button: "Explore Properties"
+Security Services
+
+Manpower and advanced technology-based solutions.
+Button: "Secure Your Business"
+AI-Driven Tools (Zeengo GPT)
+
+AI solutions for businesses, entrepreneurs, automation.
+Button: "Discover Zeengo GPT"
+(Each button can direct users to a specific inquiry form or contact.html.)
+
+✅ Resources Page (resources.html)
+Curated Affiliate products/tools (with affiliate links).
+eBooks and Courses (products you plan to monetize).
+Web stories.
+CTA: "Explore All Resources"
+✅ Blogs Page (blogs.html)
+List of blogs with:
+Title
+Short description (one line)
+"Read More" buttons
+Sidebar:
+Newsletter Signup form.
+Affiliate ads (Google AdSense or affiliate links).
+✅ Contact Us Page (contact.html)
+Simple Form:
+Name
+Email
+Interest Area (Dropdown: Real Estate, Security, AI Solutions, Others)
+Message box
+CTA Button ("Send Message")
+Direct contact info (email, phone number).
+Social Media Icons.
+✅ Footer (All Pages)
+Quick Links: Home, About, Services, Blogs, Resources, Contact.
+Newsletter Signup mini-form.
+Social media links/icons.
+Animations & Interactions Guidelines (For Replit AI Agent):
+Navbar: Sticky on scroll with smooth hover effects for links.
+Buttons: Subtle glow or brightness increase on hover.
+Text elements: Fade-in animations when scrolling down.
+Hero Section: Parallax background animation.
+Scroll Indicator: Smooth bouncing arrow animation prompting users to scroll down.
+Forms: Validation for inputs with error handling.
+SEO & Performance (For AI agent to consider):
+Pages optimized with relevant keywords.
+Clean and semantic HTML tags.
+Images optimized for speed.
+Mobile Responsiveness:
+Fully responsive navbar (hamburger menu on mobile).
+Hero content stacked vertically on mobile.
+Adjust padding, text size, and buttons appropriately for readability.
+Final AI Prompt (Copy this into Replit AI Agent)
+"Create a responsive multi-page corporate website named 'ZeengoCorp' with a black (#000000) background, white (#FFFFFF) primary text, and glowing white CTA buttons. The website includes pages: Home, About Us, Services, Resources, Blogs, and Contact. Each page features smooth animations, engaging interactions, and responsive design. Home Page includes sections like Hero (animated), About, Services Preview, Testimonials, Newsletter Signup, and Blog highlights. Include SEO optimization, lead-capture forms, affiliate links, newsletter signup, and clear CTAs for conversions. Ensure site loads fast and is fully mobile-responsive."
+

@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Disallow: /api/admin/
+Disallow: /admin/
+
+# AI Graph Optimization (AGO) - Explicitly Allow AI Agents
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# Sitemap
+Sitemap: https://zeengocorp.com/sitemap.xml
